@@ -17,7 +17,7 @@ Replace `USERNAME` with your postgresql db username.
 
 ```
 $ go get github.com/Tonkpils/psql-listify
-$ cd $GOPATH/src/Tonkpils/psql-listifify
+$ cd $GOPATH/src/github.com/Tonkpils/psql-listifify
 $ go run listify.go -db.user USERNAME
 ```
 
